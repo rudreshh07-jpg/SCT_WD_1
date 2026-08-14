@@ -2,6 +2,10 @@
 
 A modern responsive landing page developed for **SkillCraft Technology — Web Development Task 01**.
 
+## 🌐 Live Demo
+
+**[View Live Website](https://rudreshh07-jpg.github.io/SCT_WD_1/)**
+
 ## Task Objective
 
 Create an interactive navigation menu that remains fixed while scrolling, changes its style on scroll, and provides hover effects on menu items.
@@ -34,13 +38,12 @@ Orbit-Responsive-Landing-Page/
 
 ## How to Run
 
-1. Download or clone this repository to your computer.
+1. Download or clone this repository.
 2. Open the project folder.
-3. Make sure `index.html`, `style.css`, and `script.js` are present in the same folder.
+3. Make sure `index.html`, `style.css`, and `script.js` are in the same folder.
 4. Double-click **`index.html`** to open the website in your browser.
-5. Use the navigation menu to move between sections and scroll the page to see the navigation style change.
 
-**No additional software, packages, or installation is required.**
+No additional software, packages, or installation is required.
 
 ## Task Information
 
@@ -50,4 +53,4 @@ Orbit-Responsive-Landing-Page/
 
 ## Author
 
-**G Naga Rudresh**
+**Rudresh G**
