@@ -53,4 +53,4 @@ No additional software, packages, or installation is required.
 
 ## Author
 
-**Rudresh G**
+**G Naga Rudresh**
