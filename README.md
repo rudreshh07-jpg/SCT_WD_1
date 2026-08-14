@@ -1,25 +1,20 @@
 # Orbit — Responsive Landing Page
 
-A modern responsive landing page developed as part of **SkillCraft Technology Web Development Task 01**.
+A modern responsive landing page developed for **SkillCraft Technology — Web Development Task 01**.
 
 ## Task Objective
 
-Create an interactive navigation menu that:
-
-* Remains fixed while scrolling.
-* Changes style when the page is scrolled.
-* Provides hover effects on menu items.
-* Works responsively on different screen sizes.
+Create an interactive navigation menu that remains fixed while scrolling, changes its style on scroll, and provides hover effects on menu items.
 
 ## Features
 
-* Fixed and responsive navigation bar
-* Scroll-based navigation effect
+* Fixed responsive navigation bar
+* Scroll-based navigation styling
 * Active section highlighting
-* Hover animations
+* Hover effects
 * Mobile hamburger menu
 * Smooth scrolling
-* Responsive landing page design
+* Responsive design
 
 ## Technologies Used
 
@@ -33,12 +28,19 @@ Create an interactive navigation menu that:
 Orbit-Responsive-Landing-Page/
 ├── index.html
 ├── style.css
-└── script.js
+├── script.js
+└── README.md
 ```
 
 ## How to Run
 
-Open `index.html` in any modern web browser.
+1. Download or clone this repository to your computer.
+2. Open the project folder.
+3. Make sure `index.html`, `style.css`, and `script.js` are present in the same folder.
+4. Double-click **`index.html`** to open the website in your browser.
+5. Use the navigation menu to move between sections and scroll the page to see the navigation style change.
+
+**No additional software, packages, or installation is required.**
 
 ## Task Information
 
@@ -48,4 +50,4 @@ Open `index.html` in any modern web browser.
 
 ## Author
 
-**Rudresh G**
+**G Naga Rudresh**
