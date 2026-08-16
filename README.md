@@ -1,56 +1,79 @@
 # Orbit — Responsive Landing Page
 
-A modern responsive landing page developed for **SkillCraft Technology — Web Development Task 01**.
+A modern and responsive landing page developed as part of **SkillCraft Technology Web Development Task 01**.
 
 ## 🌐 Live Demo
 
 **[View Live Website](https://rudreshh07-jpg.github.io/SCT_WD_1/)**
 
-## Task Objective
+## 📸 Screenshots
 
-Create an interactive navigation menu that remains fixed while scrolling, changes its style on scroll, and provides hover effects on menu items.
+### Home Section
 
-## Features
+![Home Section](task1.png)
 
-* Fixed responsive navigation bar
+### Story Section
+
+![Story Section](task1(2).png)
+
+### Services Section
+
+![Services Section](task1(3).png)
+
+## 🎯 Task Objective
+
+Create an interactive navigation menu that remains fixed while scrolling and changes its style when the user scrolls or hovers over a menu item.
+
+## ✨ Features
+
+* Fixed navigation bar
 * Scroll-based navigation styling
 * Active section highlighting
-* Hover effects
-* Mobile hamburger menu
+* Hover effects on navigation items
 * Smooth scrolling
 * Responsive design
+* Mobile-friendly navigation
+* Modern landing page UI
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 * HTML5
 * CSS3
 * JavaScript
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
-Orbit-Responsive-Landing-Page/
+SCT_WD_1/
+│
 ├── index.html
 ├── style.css
 ├── script.js
-└── README.md
+├── README.md
+├── home.png
+├── story.png
+└── services.png
 ```
 
-## How to Run
+## ▶️ How to Run
 
-1. Download or clone this repository.
+1. Clone or download this repository.
 2. Open the project folder.
 3. Make sure `index.html`, `style.css`, and `script.js` are in the same folder.
-4. Double-click **`index.html`** to open the website in your browser.
+4. Open **`index.html`** in a web browser.
+5. Use the navigation menu to move between the different sections.
+6. Scroll through the page to see the navigation style change.
 
-No additional software, packages, or installation is required.
+No additional installation or packages are required.
 
-## Task Information
+## 📋 Task Information
 
 **Organization:** SkillCraft Technology
 **Task:** Task 01 — Responsive Landing Page
 **Domain:** Web Development
 
-## Author
+## 👨‍💻 Author
 
-**G Naga Rudresh**
+**Rudresh G**
+
+Computer Science Engineering Student
