@@ -14,11 +14,11 @@ A modern and responsive landing page developed as part of **SkillCraft Technolog
 
 ### Story Section
 
-![Story Section](task1(2).png)
+![Story Section](task1(3).png)
 
 ### Services Section
 
-![Services Section](task1(3).png)
+![Services Section](task1(2).png)
 
 ## 🎯 Task Objective
 
