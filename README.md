@@ -74,6 +74,6 @@ No additional installation or packages are required.
 
 ## 👨‍💻 Author
 
-**Rudresh G**
+**G Naga Rudresh**
 
 Computer Science Engineering Student
